@@ -1,0 +1,12 @@
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\Library\bin\Debug\net8.0\RoleplayGameLibrary.deps.json
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\Library\bin\Debug\net8.0\RoleplayGameLibrary.dll
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\Library\bin\Debug\net8.0\RoleplayGameLibrary.pdb
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\Library\obj\Debug\net8.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\Library\obj\Debug\net8.0\Library.AssemblyInfoInputs.cache
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\Library\obj\Debug\net8.0\Library.AssemblyInfo.cs
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\Library\obj\Debug\net8.0\Library.csproj.CoreCompileInputs.cache
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\Library\obj\Debug\net8.0\Library.sourcelink.json
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\Library\obj\Debug\net8.0\RoleplayGameLibrary.dll
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\Library\obj\Debug\net8.0\refint\RoleplayGameLibrary.dll
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\Library\obj\Debug\net8.0\RoleplayGameLibrary.pdb
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\Library\obj\Debug\net8.0\ref\RoleplayGameLibrary.dll

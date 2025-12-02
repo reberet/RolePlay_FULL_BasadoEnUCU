@@ -1,0 +1,16 @@
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\ConsoleGame\bin\Debug\net8.0\ConsoleGame.deps.json
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\ConsoleGame\bin\Debug\net8.0\ConsoleGame.dll
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\ConsoleGame\bin\Debug\net8.0\ConsoleGame.pdb
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\ConsoleGame\bin\Debug\net8.0\RoleplayGameLibrary.dll
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\ConsoleGame\bin\Debug\net8.0\RoleplayGameLibrary.pdb
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\ConsoleGame\obj\Debug\net8.0\ConsoleGame.csproj.AssemblyReference.cache
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\ConsoleGame\obj\Debug\net8.0\ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\ConsoleGame\obj\Debug\net8.0\ConsoleGame.AssemblyInfoInputs.cache
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\ConsoleGame\obj\Debug\net8.0\ConsoleGame.AssemblyInfo.cs
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\ConsoleGame\obj\Debug\net8.0\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\ConsoleGame\obj\Debug\net8.0\ConsoleGame.sourcelink.json
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\ConsoleGame\obj\Debug\net8.0\ConsoleG.E8750121.Up2Date
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\ConsoleGame\obj\Debug\net8.0\ConsoleGame.dll
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\ConsoleGame\obj\Debug\net8.0\refint\ConsoleGame.dll
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\ConsoleGame\obj\Debug\net8.0\ConsoleGame.pdb
+C:\prog2\ROLE\vacio_1\PII_RoleplayGame_4_Start\src\ConsoleGame\obj\Debug\net8.0\ref\ConsoleGame.dll
